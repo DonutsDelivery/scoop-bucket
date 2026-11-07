@@ -1,5 +1,5 @@
 {
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "A free DAW for music and video.",
     "homepage": "https://donutsdelivery.online/donutstudio",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://donutsdelivery.online/download-donutstudio/releases/0.9.0/DonutStudio-windows.zip",
-            "hash": "5ac99c6d73c49a06d3ca22336f99705f6d3fac7181a83a3acdab0389023b61cb"
+            "url": "https://donutsdelivery.online/download-donutstudio/releases/0.9.1/DonutStudio-windows.zip",
+            "hash": "d96a3c9c154a1c3eb9c7e5684161ce51a2ba12cc2aef9c8f3b83428b7d424259"
         }
     },
     "bin": "DonutStudio.exe",
